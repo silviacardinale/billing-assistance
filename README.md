@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-# billing-assistance
-
 <html lang="es">
 <head>
 <meta charset="UTF-8">
